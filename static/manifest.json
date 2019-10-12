@@ -1,18 +1,18 @@
 {
 	"background_color": "#ffffff",
 	"theme_color": "#333333",
-	"name": "thestreetparty.online",
-	"short_name": "streetparty",
+	"name": "Drogash",
+	"short_name": "Drogash",
 	"display": "minimal-ui",
 	"start_url": "/",
 	"icons": [
 		{
-			"src": "logo-192.png",
+			"src": "napoleone.jpg",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
-			"src": "logo-512.png",
+			"src": "napoleone.jpg",
 			"sizes": "512x512",
 			"type": "image/png"
 		}
