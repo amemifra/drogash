@@ -1,5 +1,5 @@
 <style>
-	h1, h3, a, figure {
+	h1, h3, figure, section {
 		text-align: center;
 		margin: 0 auto;
 	}
@@ -24,8 +24,12 @@
 		margin: 0 0 1em 0;
 	}
 
-	figcaption {
+	figcaption, a {
 		margin-top: 2em;
+	}
+
+	a {
+		padding-bottom: 3em;
 	}
 
 	@media (min-width: 480px) {
@@ -46,4 +50,7 @@
 	<figcaption>Napoleone Bonaparte prima della battaglia di Austerliz</figcaption>
 </figure>
 
-<a href="ipfs/QmQLjja4LfZfAkP8eWbx4RRAGjHe6wtqTLTMEeLNwhbUy1">Ministri in carica</a>
+<section>
+	<a href="ipfs/QmQLjja4LfZfAkP8eWbx4RRAGjHe6wtqTLTMEeLNwhbUy1">Ministri in carica</a>
+</section>
+
