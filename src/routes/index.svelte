@@ -59,6 +59,6 @@
 
 <section>
 	<a href="ipfs/QmQLjja4LfZfAkP8eWbx4RRAGjHe6wtqTLTMEeLNwhbUy1">Ministri in carica</a>
-	<a href="ipfs/QmSDYEsZGwPdF5rCrpuPJozBS5ByTgT4drmigJRnRG7ZJu">I quiz della quinta dimensione</a>
+	<a href="ipfs/QmVG12wGkg9yYxvchh3k1EaDMmXuJCfkYTig3ePQYb48yG">I quiz della quinta dimensione</a>
 </section>
 
