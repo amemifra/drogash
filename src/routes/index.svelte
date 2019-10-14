@@ -4,6 +4,13 @@
 		margin: 0 auto;
 	}
 
+	section {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+	}
+
 	img {
 		margin-top: 2em;
 		max-width: 80vw;
@@ -52,6 +59,6 @@
 
 <section>
 	<a href="ipfs/QmQLjja4LfZfAkP8eWbx4RRAGjHe6wtqTLTMEeLNwhbUy1">Ministri in carica</a>
-	<a href="ipfsQmSDYEsZGwPdF5rCrpuPJozBS5ByTgT4drmigJRnRG7ZJu">I quiz della quinta dimensione</a>
+	<a href="ipfs/QmSDYEsZGwPdF5rCrpuPJozBS5ByTgT4drmigJRnRG7ZJu">I quiz della quinta dimensione</a>
 </section>
 
